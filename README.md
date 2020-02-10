@@ -11,5 +11,5 @@ For ImageNet training, we used the repository located at <https://github.com/Mad
 Logs are all located in the `experiments` folder, and each subfolder corresponds to a set of experiments carried in the paper. 
 
 Model weights for the following models can be found at <https://drive.google.com/open?id=1xslETwg3nl_Mwaq_kbZiZVo9BnhCcVMG>
-+ The CIFAR10 WideResNets trained in this paper (for the double descent curve)
-+ The SVHN/CIFAR10/CIFAR100/ImageNet models reported in Table 1 (the ImageNet models are in the format used by <https://github.com/MadryLab/robustness>)
++ The best checkpoints for CIFAR10 WideResNets for width factor 10 and 20 (from the double descent curve)
++ The best checkpoints for SVHN/CIFAR10/CIFAR100/ImageNet models reported in Table 1 (the ImageNet models are in the format used by <https://github.com/MadryLab/robustness>)
