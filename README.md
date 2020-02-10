@@ -10,4 +10,6 @@ For ImageNet training, we used the repository located at <https://github.com/Mad
 
 Logs are all located in the `experiments` folder, and each subfolder corresponds to a set of experiments carried in the paper. 
 
-Model weights for the preactivation ResNet18 trained with validation based early stopping, as well as the WideResNets trained in this paper, can be found at <https://drive.google.com/open?id=1xslETwg3nl_Mwaq_kbZiZVo9BnhCcVMG>
+Model weights for the following models can be found at <https://drive.google.com/open?id=1xslETwg3nl_Mwaq_kbZiZVo9BnhCcVMG>
++ The CIFAR10 WideResNets trained in this paper (for the double descent curve)
++ The SVHN/CIFAR10/CIFAR100/ImageNet models reported in Table 1 (the ImageNet models are in the format used by <https://github.com/MadryLab/robustness>)
